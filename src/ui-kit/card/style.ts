@@ -7,7 +7,7 @@ export const style = {
     alignItems: "center",
     justifyContent: "center",
     background: "#F8F8F8",
-    border: "10px solid white",
+    border: "1px solid white",
     borderRadius: "11px",
     width: "327px",
     height: "100%",
